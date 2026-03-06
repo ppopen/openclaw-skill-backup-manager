@@ -1,6 +1,6 @@
-# backup-manager (OpenClaw Skill 7)
+# backup-manager
 
-This repository contains Skill 7 from the OpenClaw Skills Factory:
+This repository contains the `backup-manager` OpenClaw skill from the OpenClaw Skills Factory:
 
 - `backup-manager/SKILL.md`
 - `backup-manager/backup-manager.sh`
